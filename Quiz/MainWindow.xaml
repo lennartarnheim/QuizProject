@@ -15,6 +15,6 @@
         <Button Content="Button" HorizontalAlignment="Left" Margin="415,167,0,0" VerticalAlignment="Top" Width="249" Height="80" Grid.ColumnSpan="2"/>
         <Button Content="Button" HorizontalAlignment="Left" Margin="127,167,0,0" VerticalAlignment="Top" Width="249" Height="80" Grid.ColumnSpan="2"/>
         <TextBox HorizontalAlignment="Left" Height="48" Margin="127,72,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="537" Grid.ColumnSpan="2"/>
-        <Button Grid.ColumnSpan="2" Content="Button" HorizontalAlignment="Left" Height="92" Margin="127,269,0,0" VerticalAlignment="Top" Width="249"/>
+        <Button Grid.ColumnSpan="2" Content="Button" HorizontalAlignment="Left" Height="80" Margin="127,269,0,0" VerticalAlignment="Top" Width="249"/>
     </Grid>
 </Window>
